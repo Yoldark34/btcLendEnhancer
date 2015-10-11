@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name        MinerFarm
-// @namespace   MinerFarm
-// @include     http://www.minerfarm.com/*
-// @version     1.0.1
+// @name        btcLendEnhancer
+// @namespace   btcLendEnhancer
+// @include     https://wallet.btclend.org/*
+// @version     1.0.0
 // @grant       none
-// @require     https://cdn.rawgit.com/Yoldark34/minerFarmEnhancer/v1.0.1/libraries/jquery-1.11.1.min.js
+// @require     https://raw.githubusercontent.com/Yoldark34/btcLendEnhancer/master/libraries/jquery-1.11.1.min.js
 // ==/UserScript==
 $(document).ready(function() {
 
